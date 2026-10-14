@@ -1,0 +1,35 @@
+h1 {
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: 50px;
+    text-align:center;
+}
+div{
+    text-align: center;
+    background-color: darkgrey;
+    width: 550px;
+    margin-left: auto;
+    margin-right: auto;
+    border-style: solid;
+    border-radius: 20px;
+}
+input[type="button"]{
+    background-color: grey;
+    width: 70px;
+    height: 70px;
+    border-radius: 40px;
+    border-style:solid;
+
+}
+input[type="text"] {
+    height: 50px;
+    width: 500px;
+    font-size: 24px;
+    border-style: solid;
+    border-radius: 10px;
+}
+body{
+    background-color:darkolivegreen;
+}
+input[type="button"]:hover {
+    background-color: rgba(35, 97, 10, 0.562);
+} 
